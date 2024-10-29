@@ -1,0 +1,12 @@
+exceptiongroup
+iniconfig
+numpy
+packaging
+pandas
+pluggy
+pytest
+python-dateutil
+pytz
+six
+tomli
+tzdata
